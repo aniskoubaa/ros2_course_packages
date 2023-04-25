@@ -2,7 +2,7 @@
 
 Welcome to the **ROS2 for Beginners** Udemy course Git repository. This repository contains the packages and materials designed to help you learn essential ROS2 concepts and gain hands-on experience in both C++ and Python languages.
 
-[![Course](https://img.shields.io/badge/Udemy-Course-blue)](https://www.udemy.com/ros-essentials/)
+[![Course](https://img.shields.io/badge/Udemy-Course-blue)](https://www.udemy.com/course/ros2-how-to/)
 [![Discount](https://img.shields.io/badge/Discount-Coupons-green)](https://www.riotu-lab.org/udemy.php)
 
 ## Course Packages
