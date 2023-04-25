@@ -15,8 +15,6 @@ The repository contains the following packages:
 
 ## Getting Started
 
-## Getting Started
-
 Before using the packages provided in this repository, ensure that ROS2 is installed on your system. The [ROS2 installation guide](https://index.ros.org/doc/ros2/Installation/) offers detailed instructions on how to install ROS2.
 
 ### Cloning the Repository
