@@ -104,5 +104,5 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial-S
 
 ## Enroll in the Course
 
-To enroll in the Udemy course, visit [ROS For Beginners: Basics, Motion and OpenCV](https://www.udemy.com/ros-essentials/). 
+To enroll in the Udemy course, visit [ROS2 For Beginners](https://www.udemy.com/ros2-how-to/). 
 For discount coupons, check [https://www.riotu-lab.org/udemy.php](https://www.riotu-lab.org/udemy.php).
