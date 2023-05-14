@@ -1,0 +1,18 @@
+launch:
+
+  - arg:
+      name: "start_mover"
+      default: "false"
+
+  - node:
+      pkg: "turtlesim"
+      exec: "turtlesim_node"
+      name: "sim"
+
+
+  - node:
+      pkg: "ros2_motion_python"
+      exec: "mover"
+      name: "mover"
+      #output: "screen"
+      if: "$(var start_mover)"

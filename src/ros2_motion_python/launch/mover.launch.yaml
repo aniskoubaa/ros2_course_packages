@@ -1,0 +1,12 @@
+launch:
+
+  - node:
+      pkg: "turtlesim"
+      exec: "turtlesim_node"
+      name: "sim"
+
+  - node:
+      pkg: "ros2_motion_python"
+      exec: "mover"
+      name: "mover"
+      
